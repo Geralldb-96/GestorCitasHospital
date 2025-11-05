@@ -1,5 +1,5 @@
 ﻿GestorCitasHospital
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 C:\Users\Geral\Documents\Universidad\GestorCitasHospital\App.xaml
 7178531727
 
-12-2105861574
+15-352510295
 217-2068566864
 MainWindow.xaml;Views\Citas\CitasCrearView.xaml;Views\Citas\CitasPorEstadoView.xaml;Views\Citas\CitasPorFechaView.xaml;Views\Citas\CitasPorMedicoView.xaml;Views\Citas\CitasPorPacienteView.xaml;Views\Citas\CitasResumenView.xaml;
 
-False
+True
 
